@@ -1,0 +1,456 @@
+checking:
+  checking_entity: ['Achacoso, Hamir Ibrahim', 'Adriano, Wilfredo R.', AKI, 'Aril,
+      Lala', 'Atienza, Melchizedek Eleazar', 'Auxillo, Alfredo S.', 'Bagamaspao, Elison
+      C.', 'Balbieran, Romilyn', 'Balbieran, Ruth', 'Baldemor, Emily Mary Jane', 'Baldemor,
+      Nathaniel', 'Bantique, Flor', 'Basto, Pacifico Jr.', 'Bayang, Rochelle ', 'Bernales,
+      Vicente P.', BJMP, 'Bubod, Fortunato M.', 'Buzeta, Drake Nikko', 'Cabigting,
+      Romeo', 'Cabrera, Teresita', 'Camandero, Vivian', 'Castillo, Madeline', 'Cuarto,
+      Victor Immanuel', Depending2Christ1990, 'Eloja, Nestor Raul P.', 'Emboc, Tano',
+    'Enojas, David James', 'Evangelista, Carmelita', 'Fianza, Arlyn', Gab, 'Galvez,
+      Garry', 'Ganiban, Rafael', 'Gatchalian, James A.', Glosa, 'Gumangan, Julius',
+    'Gutierrez, Robin Rhoy', 'Inway, Jennilyn', 'Jimenez, Alvin', Julito Opider, 'Lanira,
+      Rolando U. Jr', 'Laya, Anita', 'Lopez, Josephine', 'Madawat, Glory', 'Mam, Geneohoy',
+    'Manaois, Charlie Jay', Mharus, 'Mijares, Racquel', 'Palagimlan, Rey Mart E.',
+    'Palileo, Reynaldo Jr.', 'Paller, Romy', 'Panes, Jona Mae K.', 'Pangadlin, Jun',
+    'Paraiso, Lorelie Rachel', Pavin, 'Pawid, Jake', 'Peralta, Rodolfo', 'Perez, Ian
+      Hudson', Phraim 91, 'Pin-ag, Rose Ann', 'Pobadora, Josephine M.', 'Pura, Saniel',
+    'Ralph, Lantion', Rene Aril, 'Revilla, Adelaido Jr', 'Rull, Fernando', 'Rupa,
+      Jonathan', 'Saptang, Bethlehem P.', Selle, "Serqui\xF1a, Bernard", 'Singgangan,
+      Josie', 'Talimodao, Sheldon Jay T.', 'Veloso, Alfonil', 'Veloso, Helen', 'Venus,
+      Jorito', 'Vergara, Johanne G.', 'Villorente, Dea Rose', 'Yosores, Momer B.']
+  checking_level: '3'
+dublin_core:
+  conformsto: rc0.2
+  contributor: ['Abantes, Glosamie R.', 'Abluyan, Nieves', 'Aggasid, John Stephen',
+    'Aldana, Marvin J.', 'Ancheta, Jonathan', 'Andaya, Reymond', 'Aril, Rene', 'Atienza,
+      Melchizedek Eleazar', 'Atmagol, Efraim P.', 'Auxillo, Alfredo S.', 'Balbieran,
+      Ruth M.', 'Bibay, Roland Dave', 'Cadiente, Dandel', "Ca\xF1ares, Randy", "Ca\xF1\
+      ete, Benedicto", 'Canonoy, Neil Ian P.', 'Castelo, Kathleen', 'Castillo, Madeline',
+    'Chiong, Armie', 'Co, Corizin F.', 'Covita, Mark', 'Delos Reyes, Rachel', 'Dingle,
+      Buena Kathleen', 'Eloja, Nestor Raul P.', 'Emboc, Tano', 'Eugenio, Alfred',
+    'Evangelista, Carmelita', 'Fajardo-Barcebal, Rosalle', 'Fianza, Arlyn', 'Flores,
+      Christopher V.', 'Flores, Rommel', 'Fradejas, Daniel G.', 'Frias, Ronald', 'Galvez,
+      Garry C.', 'Gatchalian, James A.', 'Gomez, Roniza May L.', 'Inway, Jennilyn',
+    'Langres, Arsenio', 'Langres, Vicki M.', 'Langres, Zimri', 'Lantion, Ralph', 'Lapira,
+      Ronaldo Jr, C.', 'Laya, Anita', 'Lazo, Jeffrey', 'Lopez, Josephine', 'Lorona,
+      Marvina U.', 'Mampo, Genelyn U.', 'Mijares, Racquel', 'Monteverde, Julian Angelo',
+    'Morales, Gilbert', 'Oday, Gabriel', 'Ong, Reynante', "Ordo\xF1o, Arsenio Jr.",
+    'Osabel, Hesa Joyce', 'Pabellion-Lasinga, Beryl Joi', 'Palagimlan, Ray Mart E.',
+    'Paller, Beth', 'Paller, Romy', 'Palomar, Carmina', 'Panes, Jona Mae K.', 'Pawid,
+      Jake', 'Pido, Miriam', 'Pin-ag, Rose Ann', Revilla Adelaido D. Jr, 'Reyes, Dominic',
+    'Riate, Erick Jan', 'Rivera, Diana', "Salda\xF1a, Helen", 'Saptang, Bethlehem
+      P.', 'Sibayan, Mizpha', 'Talimodao, Sheldon Jay T.', 'Tuang, Mandel John C.',
+    'Umpatang, Jimmy', 'Vergara, Johanne G.', 'Villorente, Dea Rose']
+  creator: Door43 World Missions Community
+  description: An unrestricted literal Bible
+  format: text/usfm
+  identifier: ulb
+  issued: '2018-04-20'
+  language: {direction: ltr, identifier: tl, title: Tagalog}
+  modified: '2018-04-20'
+  publisher: Door43
+  relation: [tl/tn, tl/tq, tl/tw, tl/udb]
+  rights: CC BY-SA 4.0
+  source:
+  - {identifier: ulb, language: en, version: '5'}
+  subject: Bible
+  title: Tagalog Unlocked Literal Bible
+  type: bundle
+  version: '5.2'
+projects:
+- categories: [bible-ot]
+  identifier: gen
+  path: ./01-GEN.usfm
+  sort: 1
+  title: 'Genesis '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: exo
+  path: ./02-EXO.usfm
+  sort: 2
+  title: 'Exodo '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: lev
+  path: ./03-LEV.usfm
+  sort: 3
+  title: 'Levitico '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: num
+  path: ./04-NUM.usfm
+  sort: 4
+  title: 'Mga Bilang '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: deu
+  path: ./05-DEU.usfm
+  sort: 5
+  title: 'Deuteronomio '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: jos
+  path: ./06-JOS.usfm
+  sort: 6
+  title: 'Joshua '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: jdg
+  path: ./07-JDG.usfm
+  sort: 7
+  title: 'Mga Hukom '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: rut
+  path: ./08-RUT.usfm
+  sort: 8
+  title: 'Ruth '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: 1sa
+  path: ./09-1SA.usfm
+  sort: 9
+  title: '1 Samuel '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: 2sa
+  path: ./10-2SA.usfm
+  sort: 10
+  title: '2 Samuel '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: 1ki
+  path: ./11-1KI.usfm
+  sort: 11
+  title: '1 Mga Hari '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: 2ki
+  path: ./12-2KI.usfm
+  sort: 12
+  title: '2 Mga Hari '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: 1ch
+  path: ./13-1CH.usfm
+  sort: 13
+  title: '1 Mga Cronica '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: 2ch
+  path: ./14-2CH.usfm
+  sort: 14
+  title: '2 Mga Cronica '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: ezr
+  path: ./15-EZR.usfm
+  sort: 15
+  title: 'EZRA '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: neh
+  path: ./16-NEH.usfm
+  sort: 16
+  title: 'Nehemias '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: est
+  path: ./17-EST.usfm
+  sort: 17
+  title: 'Ester '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: job
+  path: ./18-JOB.usfm
+  sort: 18
+  title: 'Job '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: psa
+  path: ./19-PSA.usfm
+  sort: 19
+  title: 'Mga Awit '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: pro
+  path: ./20-PRO.usfm
+  sort: 20
+  title: 'Mga Kawikaan '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: ecc
+  path: ./21-ECC.usfm
+  sort: 21
+  title: 'Ang Mangangaral '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: sng
+  path: ./22-SNG.usfm
+  sort: 22
+  title: 'Mga Awit ni Solomon '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: isa
+  path: ./23-ISA.usfm
+  sort: 23
+  title: 'Isaias '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: jer
+  path: ./24-JER.usfm
+  sort: 24
+  title: 'Jeremias '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: lam
+  path: ./25-LAM.usfm
+  sort: 25
+  title: 'Mga Panaghoy '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: ezk
+  path: ./26-EZK.usfm
+  sort: 26
+  title: 'Ezekiel '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: dan
+  path: ./27-DAN.usfm
+  sort: 27
+  title: Daniel
+  versification: ufw
+- categories: [bible-ot]
+  identifier: hos
+  path: ./28-HOS.usfm
+  sort: 28
+  title: 'Hosea '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: jol
+  path: ./29-JOL.usfm
+  sort: 29
+  title: 'Joel '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: amo
+  path: ./30-AMO.usfm
+  sort: 30
+  title: 'Amos '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: oba
+  path: ./31-OBA.usfm
+  sort: 31
+  title: 'Obadias '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: jon
+  path: ./32-JON.usfm
+  sort: 32
+  title: 'Jonas '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: mic
+  path: ./33-MIC.usfm
+  sort: 33
+  title: 'Mikas '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: nam
+  path: ./34-NAM.usfm
+  sort: 34
+  title: 'Nahum '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: hab
+  path: ./35-HAB.usfm
+  sort: 35
+  title: 'Habakuk '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: zep
+  path: ./36-ZEP.usfm
+  sort: 36
+  title: 'Zefanias '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: hag
+  path: ./37-HAG.usfm
+  sort: 37
+  title: 'Hagai '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: zec
+  path: ./38-ZEC.usfm
+  sort: 38
+  title: 'Zacarias '
+  versification: ufw
+- categories: [bible-ot]
+  identifier: mal
+  path: ./39-MAL.usfm
+  sort: 39
+  title: 'Malakias '
+  versification: ufw
+- categories: [bible-nt]
+  identifier: mat
+  path: ./41-MAT.usfm
+  sort: 40
+  title: Mateo
+  versification: ufw
+- categories: [bible-nt]
+  identifier: mrk
+  path: ./42-MRK.usfm
+  sort: 41
+  title: Markos
+  versification: ufw
+- categories: [bible-nt]
+  identifier: luk
+  path: ./43-LUK.usfm
+  sort: 42
+  title: Lucas
+  versification: ufw
+- categories: [bible-nt]
+  identifier: jhn
+  path: ./44-JHN.usfm
+  sort: 43
+  title: Juan
+  versification: ufw
+- categories: [bible-nt]
+  identifier: act
+  path: ./45-ACT.usfm
+  sort: 44
+  title: Mga Gawa
+  versification: ufw
+- categories: [bible-nt]
+  identifier: rom
+  path: ./46-ROM.usfm
+  sort: 45
+  title: Mga Taga-Roma
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1co
+  path: ./47-1CO.usfm
+  sort: 46
+  title: 1 Corinto
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2co
+  path: ./48-2CO.usfm
+  sort: 47
+  title: 2 Mga Taga-Corinto
+  versification: ufw
+- categories: [bible-nt]
+  identifier: gal
+  path: ./49-GAL.usfm
+  sort: 48
+  title: Mga Taga-Galacia
+  versification: ufw
+- categories: [bible-nt]
+  identifier: eph
+  path: ./50-EPH.usfm
+  sort: 49
+  title: Mga taga-Efeso
+  versification: ufw
+- categories: [bible-nt]
+  identifier: php
+  path: ./51-PHP.usfm
+  sort: 50
+  title: Mga Taga-Filipos
+  versification: ufw
+- categories: [bible-nt]
+  identifier: col
+  path: ./52-COL.usfm
+  sort: 51
+  title: Mga Taga-Colosas
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1th
+  path: ./53-1TH.usfm
+  sort: 52
+  title: 1 Tesalonica
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2th
+  path: ./54-2TH.usfm
+  sort: 53
+  title: 2 Mga Taga-Tesalonica
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1ti
+  path: ./55-1TI.usfm
+  sort: 54
+  title: 1 Timoteo
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2ti
+  path: ./56-2TI.usfm
+  sort: 55
+  title: 2 Timoteo
+  versification: ufw
+- categories: [bible-nt]
+  identifier: tit
+  path: ./57-TIT.usfm
+  sort: 56
+  title: Tito
+  versification: ufw
+- categories: [bible-nt]
+  identifier: phm
+  path: ./58-PHM.usfm
+  sort: 57
+  title: Filemon
+  versification: ufw
+- categories: [bible-nt]
+  identifier: heb
+  path: ./59-HEB.usfm
+  sort: 58
+  title: Mga Hebreo
+  versification: ufw
+- categories: [bible-nt]
+  identifier: jas
+  path: ./60-JAS.usfm
+  sort: 59
+  title: Santiago
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1pe
+  path: ./61-1PE.usfm
+  sort: 60
+  title: 1 Pedro
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2pe
+  path: ./62-2PE.usfm
+  sort: 61
+  title: 2 Pedro
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1jn
+  path: ./63-1JN.usfm
+  sort: 62
+  title: 1 Juan
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2jn
+  path: ./64-2JN.usfm
+  sort: 63
+  title: 2 Juan
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 3jn
+  path: ./65-3JN.usfm
+  sort: 64
+  title: 3 Juan
+  versification: ufw
+- categories: [bible-nt]
+  identifier: jud
+  path: ./66-JUD.usfm
+  sort: 65
+  title: Judas
+  versification: ufw
+- categories: [bible-nt]
+  identifier: rev
+  path: ./67-REV.usfm
+  sort: 66
+  title: Pahayag
+  versification: ufw
